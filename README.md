@@ -49,7 +49,7 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 If you have questions or concerns about this Privacy Policy, please reach out:
 
 - **Email:** sidgiri2000@gmail.com
-- **Package:** com.siddhant555.ship100
+- **Package:** com.vibekarta.ship100
 
 ---
 
